@@ -69,3 +69,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 ![React-shop — Mozilla Firefox 4_27_2022 5_01_25 PM](https://user-images.githubusercontent.com/101025831/165524280-a1b0d577-0cd0-4d2b-b911-3996f31d8a40.png)
+![React-shop — Mozilla Firefox 4_27_2022 5_01_51 PM](https://user-images.githubusercontent.com/101025831/165524653-f8e2564b-87b3-4588-9612-a06d9203dcf8.png)
+![React-shop — Mozilla Firefox 4_27_2022 5_01_59 PM](https://user-images.githubusercontent.com/101025831/165524664-42ed6be8-5bdf-4060-b220-eab57bbaba96.png)
+![React-shop — Mozilla Firefox 4_27_2022 5_02_13 PM](https://user-images.githubusercontent.com/101025831/165524681-392fa69c-6d15-4cd7-a0d4-a28d5e33a630.png)
+![React-shop — Mozilla Firefox 4_27_2022 5_03_05 PM](https://user-images.githubusercontent.com/101025831/165524690-f4892ce7-4873-4057-8bdc-834eed163cc9.png)
+![React-shop — Mozilla Firefox 4_27_2022 5_03_49 PM](https://user-images.githubusercontent.com/101025831/165524700-d958c325-c3be-4a6e-9d8c-48c2b7e02818.png)
+![React-shop — Mozilla Firefox 4_27_2022 5_04_17 PM](https://user-images.githubusercontent.com/101025831/165524722-d7036066-1a59-4b89-a145-d1cc08e0902e.png)
+![React-shop — Mozilla Firefox 4_27_2022 5_04_27 PM](https://user-images.githubusercontent.com/101025831/165524735-ba518097-1f97-4586-9085-90f0d5e57934.png)
+![React-shop — Mozilla Firefox 4_27_2022 5_04_34 PM](https://user-images.githubusercontent.com/101025831/165524755-e9c18a7d-bdbf-4266-b272-0db7c3be0d9a.png)
+![React-shop — Mozilla Firefox 4_27_2022 5_04_47 PM](https://user-images.githubusercontent.com/101025831/165524761-4fcffc06-1564-4665-adbc-0458267fd301.png)
+![React-shop — Mozilla Firefox 4_27_2022 5_04_54 PM](https://user-images.githubusercontent.com/101025831/165524773-0778a0b1-1002-42c6-b5b2-eff052433158.png)
